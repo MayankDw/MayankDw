@@ -12,8 +12,6 @@
 
 👨‍💻 My expertise includes data analytics, business intelligence, and digital transformation, helping retailers leverage technology to drive growth and enhance the customer experience.
 
-👨‍💻 My portfolio is available at www.retailanalytica.com
-
 🌱 I’m a passionate advocate for data-driven decision-making and business optimization in the retail sector.
 
 💬 Ask me about Retail Business Transformation, Data Analytics, AI/ML in Retail, E-commerce technologies, Cloud Computing.
